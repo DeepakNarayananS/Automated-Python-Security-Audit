@@ -1,0 +1,5 @@
+rich==13.9.4
+pip-audit==2.10.0
+pipdeptree==2.35.3
+bandit==1.9.4
+cyclonedx-bom==7.3.0
